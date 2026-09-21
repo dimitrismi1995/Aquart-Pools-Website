@@ -8,7 +8,8 @@ A premium mobile-first enquiry website for pool construction, renovation, mainte
 - `pnpm --filter @workspace/aquart-pools run dev` — run the Aquart Pools website through its managed workflow
 - `pnpm --filter @workspace/aquart-pools run typecheck` — check the Aquart Pools frontend
 - `pnpm run typecheck` — full typecheck across all packages
-- `pnpm run build` — typecheck + build all packages
+- `pnpm run build` — production build for the deployable Aquart Pools website
+- `pnpm run build:all` — typecheck and build all production workspace packages
 - `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
 - `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
 - Required env: `DATABASE_URL` — Postgres connection string
