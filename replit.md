@@ -1,10 +1,12 @@
-# [Project name]
+# Aquart Pools
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A premium mobile-first enquiry website for pool construction, renovation, maintenance, repairs, and equipment upgrades in Cyprus.
 
 ## Run & Operate
 
 - `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
+- `pnpm --filter @workspace/aquart-pools run dev` — run the Aquart Pools website through its managed workflow
+- `pnpm --filter @workspace/aquart-pools run typecheck` — check the Aquart Pools frontend
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
 - `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
@@ -22,23 +24,32 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/aquart-pools/src/App.tsx` — single-page website content and interactions
+- `artifacts/aquart-pools/src/index.css` — responsive styling, theme, and motion
+- `attached_assets/generated_images/aquart-pool-hero.jpg` — replaceable hero/poster image
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The first release is frontend-only; the quote form demonstrates validation and a success state but does not send or persist enquiries.
+- WhatsApp remains disabled until the business confirms the listed phone number accepts WhatsApp.
+- Unverified address, service areas, opening hours, legal URLs, project details, and company claims remain explicit placeholders.
+- The hero uses a poster-based replaceable video placeholder until an approved 10-second MP4 is supplied.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Responsive single-page service website with sticky navigation and a mobile contact bar
+- Call, email, service, project, FAQ, and quote-request flows
+- Accessible quote form with client-side validation, consent, optional image selection, and no-refresh success state
+- Search and social metadata plus placeholder-safe LocalBusiness structured data
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Do not invent certifications, awards, reviews, customer numbers, years of experience, prices, guarantees, manufacturer partnerships, or unverified business details.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- Keep WhatsApp links inactive until confirmed by the business.
+- Replace the hero media, project imagery, map, legal-page URLs, address, hours, and detailed service areas before publishing.
 
 ## Pointers
 
