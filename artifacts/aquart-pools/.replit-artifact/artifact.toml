@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Aquart Pools"
+description = "A premium mobile-first website for Aquart Pools, generating enquiries for swimming pool construction, renovation, maintenance, repairs, and equipment upgrades across Cyprus."
+version = "1.0.0"
+id = "artifacts/aquart-pools"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22424
+
+[services.development]
+run = "pnpm --filter @workspace/aquart-pools run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/aquart-pools", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/aquart-pools/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22424"
+BASE_PATH = "/"

@@ -1,0 +1,752 @@
+Build a premium, mobile-first website demo for:
+
+AQUART POOLS
+
+Business category:
+Swimming-pool construction, pool renovation, pool maintenance, pool repairs, equipment upgrades, and related pool services in Cyprus.
+
+PRIMARY OBJECTIVE
+
+Create a professional website that generates:
+
+- Pool-construction quote requests
+- Pool-renovation enquiries
+- Pool-maintenance requests
+- Pool-repair enquiries
+- Equipment and upgrade enquiries
+- Phone calls
+- WhatsApp enquiries
+- Villa-owner and property-manager leads
+
+This must look like an established swimming-pool construction and maintenance company, not a generic web-design template.
+
+IMPORTANT ACCURACY RULES
+
+This is a demo website for an existing company.
+
+Do not invent:
+
+- Certifications
+- Awards
+- Reviews
+- Customer numbers
+- Exact years of experience
+- Project names
+- Prices
+- Guarantees
+- Opening hours
+- Exact address
+- Manufacturer partnerships
+- “Best in Cyprus” claims
+- “Lowest prices” claims
+- “100% satisfaction” claims
+- “24/7 service” claims
+- “Same-day service” claims
+
+Use clearly marked placeholders for any information that has not been verified. Make all business information easy to replace before publishing.
+
+TEMPORARY BUSINESS INFORMATION
+
+- Business name: Aquart Pools
+- Phone: +357 70 088701
+- Email: aquartpools@gmail.com
+- WhatsApp: +357 70 088701 only if confirmed by the business
+- Service area: Cyprus — verify before publishing
+- Address: [VERIFY BEFORE PUBLISHING]
+- Opening hours: [VERIFY BEFORE PUBLISHING]
+- Website: This is a new demo website
+
+Do not publish any masked or unverified contact information.
+
+VISUAL STYLE
+
+Use a premium pool-construction and property-improvement aesthetic:
+
+- Deep navy
+- Aqua blue
+- Turquoise
+- White
+- Light stone and sand colours
+- Small warm accent colour for CTA buttons
+- Large clean typography
+- High-quality pool and construction imagery
+- Elegant villa and outdoor-property feel
+- Professional technical details
+- Clean rounded cards
+- Strong mobile layout
+- Subtle animations only
+- No excessive gradients
+- No neon colours
+- No generic SaaS appearance
+- No fake luxury claims
+
+TARGET CUSTOMERS
+
+- Homeowners
+- Villa owners
+- Property developers
+- Landlords
+- Holiday-home owners
+- Property managers
+- Hotels and holiday accommodation businesses
+- Commercial property owners
+- Customers renovating an old pool
+- Customers planning a new pool
+
+BRAND TONE
+
+Use language that is:
+
+- Professional
+- Clear
+- Reliable
+- Practical
+- Technical but easy to understand
+- Suitable for local and international property owners
+
+PAGE STRUCTURE
+
+1. STICKY NAVIGATION
+
+Create a sticky navigation bar with:
+
+- Logo/wordmark: Aquart Pools
+- Navigation links:
+  - Services
+  - New Pools
+  - Renovation
+  - Maintenance
+  - Projects
+  - FAQs
+  - Contact
+- Primary CTA:
+  - “Request a Quote”
+
+On mobile:
+
+- Use a compact header
+- Add a sticky bottom contact bar with:
+  - Call
+  - WhatsApp
+  - Request Quote
+
+Make all buttons large and easy to use on mobile.
+
+2. HERO SECTION
+
+Use this headline:
+
+“Swimming Pool Construction, Renovation & Maintenance”
+
+Use this supporting text:
+
+“Professional pool-service enquiries for new construction, renovation, maintenance, repairs, and equipment upgrades across Cyprus.”
+
+Add primary buttons:
+
+- “Request a Pool Quote”
+- “Call Aquart Pools”
+
+Add a secondary button:
+
+- “Send a WhatsApp Message”
+
+Add a small trust line:
+
+“Pool construction • Renovation • Maintenance • Repairs”
+
+Add a small location line:
+
+“Serving Cyprus — confirm service coverage before publishing.”
+
+Hero visual:
+
+Show a high-quality modern swimming pool beside a villa, with subtle construction or maintenance details. The visual should communicate both design quality and technical capability.
+
+Do not show:
+
+- Fake company logos
+- Manufacturer logos
+- Fake awards
+- Fake certificates
+- Readable text inside images
+- Unrealistic pool designs
+- Dangerous construction activity
+
+3. TEN-SECOND HERO VIDEO
+
+Include a short 10-second video in the hero section.
+
+Video requirements:
+
+- Exactly 10 seconds
+- Autoplay
+- Muted
+- Loop
+- playsInline
+- 16:9 desktop format
+- Centre-safe framing for mobile cropping
+- Add a poster-image fallback
+- Respect prefers-reduced-motion by showing the poster image instead of autoplay video
+- Lazy-load the video where possible
+- Do not slow down page loading
+- If a real MP4 is unavailable, create a polished replaceable video placeholder
+
+Video scene sequence:
+
+1. Wide shot of a modern villa and a new swimming pool under construction or renovation.
+2. Close-up of a professional technician measuring or checking pool structure safely.
+3. Technician installs or checks pool equipment near a clean technical area.
+4. Show a smooth transition to a finished modern pool with clear water.
+5. End with a calm wide shot of the completed pool and property.
+
+Video restrictions:
+
+- No visible logos
+- No readable text
+- No fake certifications
+- No customer faces
+- No dangerous construction
+- No exposed electrical hazards
+- No chemical pouring
+- No dramatic leaks
+- No explosions, fire, or smoke
+- No talking or lip-sync
+- No audio required
+- No unrealistic transformations
+- End with a calm premium pool shot
+
+4. TRUST STRIP
+
+Create four compact trust items:
+
+- New pool construction
+- Pool renovation
+- Ongoing maintenance
+- Equipment and repair enquiries
+
+Do not add fake ratings, reviews, awards, certifications, customer numbers, or years of experience.
+
+5. SERVICES SECTION
+
+Title:
+
+“Complete Pool Services”
+
+Create six service cards:
+
+A. Pool Construction
+
+Description:
+“Enquiries for designing and constructing suitable swimming-pool projects for homes, villas, and properties.”
+
+B. Pool Renovation
+
+Description:
+“Renovation enquiries for updating the appearance, function, equipment, or finish of an existing pool.”
+
+C. Pool Maintenance
+
+Description:
+“Pool-care enquiries for cleaning, servicing, water checks, equipment support, and ongoing maintenance.”
+
+D. Pool Repairs
+
+Description:
+“Repair enquiries relating to visible pool issues, equipment, circulation, finishes, or other pool-related problems.”
+
+E. Equipment and Upgrades
+
+Description:
+“Enquiries about suitable pumps, filters, lighting, covers, circulation systems, and pool equipment upgrades.”
+
+F. Villa and Property Support
+
+Description:
+“Pool-service enquiries for villa owners, property managers, landlords, and suitable commercial properties.”
+
+Each card must include:
+
+- Simple line icon
+- Short description
+- “Ask About This Service” button
+- Link to the quote form
+- Service-specific WhatsApp link only if WhatsApp is confirmed
+
+Do not claim that every type of pool, system, brand, or equipment can be repaired.
+
+6. NEW POOL CONSTRUCTION SECTION
+
+Title:
+
+“Planning a New Swimming Pool?”
+
+Use this copy:
+
+“Whether you are planning a new pool for a home, villa, or property development, send the basic project details to discuss the next step.”
+
+Show a three-stage process:
+
+- Discuss the property and project requirements
+- Review the proposed pool scope and options
+- Arrange the next stage, subject to feasibility and availability
+
+Add CTA:
+
+“Discuss a New Pool Project”
+
+Do not promise exact completion dates, costs, permits, or approvals.
+
+7. POOL RENOVATION SECTION
+
+Title:
+
+“Give an Existing Pool a New Direction”
+
+Show renovation enquiry categories:
+
+- Pool surface and finish
+- Tiles and coping
+- Pool surrounds
+- Pumps and filters
+- Lighting
+- Covers
+- Circulation systems
+- Visible wear or damage
+- General refurbishment
+
+Add disclaimer:
+
+“Renovation scope, materials, feasibility, pricing, and timeframe require assessment and confirmation.”
+
+Add CTA:
+
+“Request a Renovation Quote”
+
+8. MAINTENANCE SECTION
+
+Title:
+
+“Keep Your Pool Ready for Use”
+
+Create three non-priced service cards:
+
+A. Regular Pool Care
+
+“Enquiries for recurring cleaning, water checks, servicing, and maintenance.”
+
+B. Villa Pool Support
+
+“Support enquiries for holiday homes, villas, and properties whose owners may not live nearby.”
+
+C. Equipment Maintenance
+
+“Enquiries about pumps, filters, circulation, lighting, and other suitable pool systems.”
+
+Do not publish prices or guaranteed visit frequencies.
+
+Add disclaimer:
+
+“Service frequency, inclusions, availability, service area, and pricing must be confirmed with Aquart Pools.”
+
+9. COMMON POOL PROBLEMS SECTION
+
+Title:
+
+“Need Help With a Pool Project or Problem?”
+
+Show:
+
+- Pool construction planning
+- Old or damaged pool finishes
+- Water-quality concerns
+- Pump or filter problems
+- Pool equipment needing replacement
+- Pool renovation requirements
+- Pool lighting or cover enquiries
+- Ongoing maintenance needs
+- Unsure what service is required
+
+Add CTA:
+
+“Describe Your Project”
+
+Supporting text:
+
+“Send the property location, pool details, and a short description. The team can review the enquiry and advise on the next step.”
+
+Do not promise remote diagnosis or an immediate quotation.
+
+10. PROJECTS / GALLERY SECTION
+
+Title:
+
+“Pool Projects and Work Examples”
+
+Create a professional gallery layout with replaceable image placeholders for:
+
+- New pool construction
+- Pool renovation
+- Pool surrounds
+- Pool equipment
+- Finished villa pool
+- Maintenance or repair work
+
+Use placeholder labels internally:
+
+- Replace with approved project image
+- Add project location only if approved
+- Add project description only if verified
+
+Do not invent project names, locations, client names, prices, or completion dates.
+
+11. HOW IT WORKS SECTION
+
+Title:
+
+“How a Pool Enquiry Works”
+
+Create three steps:
+
+Step 1: Send the details
+
+“Call, send a WhatsApp message, or complete the form with your property location and project requirements.”
+
+Step 2: Discuss the project
+
+“Share information about the pool, property, desired service, existing equipment, and any known problems.”
+
+Step 3: Arrange the next step
+
+“Subject to feasibility, availability, and service suitability, the team discusses inspection, quotation, design, construction, renovation, or maintenance.”
+
+Do not promise response times or appointment availability.
+
+12. QUOTE REQUEST FORM
+
+Title:
+
+“Request a Pool Quote”
+
+Create these fields:
+
+- Full name
+- Phone number
+- Email address, optional
+- Property location
+- Customer type:
+  - Homeowner
+  - Villa owner
+  - Landlord
+  - Property manager
+  - Property developer
+  - Hotel or accommodation business
+  - Other
+- Project type:
+  - New pool construction
+  - Pool renovation
+  - Pool maintenance
+  - Pool repair
+  - Equipment upgrade
+  - Not sure
+- Pool status:
+  - New project
+  - Existing pool
+  - Pool currently not in use
+  - Not sure
+- Approximate pool size, optional
+- Short project or service description
+- Preferred contact method:
+  - Phone
+  - WhatsApp
+  - Email
+- Preferred day or time, optional
+- Optional image upload area
+
+Consent checkbox:
+
+“I agree that Aquart Pools may contact me regarding this service enquiry.”
+
+Add this note:
+
+“Submitting this form does not confirm an appointment, quote, project, or service. Feasibility, availability, pricing, materials, and scope must be confirmed with Aquart Pools.”
+
+Form requirements:
+
+- Validate required fields
+- Use visible labels
+- Show helpful validation messages
+- Show a professional success state without refreshing
+- Display phone contact after submission
+- Show WhatsApp fallback only if enabled
+- Do not collect unnecessary sensitive information
+- Do not collect financial, medical, or identity-document information
+- Add a privacy-policy placeholder
+- Make image upload optional
+- Do not create a customer account
+- Do not include online payments
+- Make the form destination easy for the client to replace with their own email/form account
+
+Success message:
+
+“Thank you. Your enquiry has been received. Aquart Pools will review the details and contact you using your preferred method, subject to availability.”
+
+13. PROPERTY OWNERS AND MANAGERS SECTION
+
+Title:
+
+“Pool Support for Homes, Villas, and Managed Properties”
+
+Use this copy:
+
+“A pool project or maintenance requirement often needs clear communication between owners, managers, and service providers. Contact Aquart Pools to discuss a suitable construction, renovation, repair, or maintenance requirement.”
+
+Show:
+
+- Villa owners
+- Overseas property owners
+- Holiday-home owners
+- Landlords
+- Property managers
+- Property developers
+- Small hotels and accommodation providers
+
+Do not promise inspection reports, priority response, emergency service, or photographic updates unless verified.
+
+14. ABOUT SECTION
+
+Title:
+
+“About Aquart Pools”
+
+Use this placeholder copy:
+
+“Aquart Pools provides swimming-pool construction, renovation, maintenance, repair, and equipment-related services in Cyprus. This section should be updated with verified company information, team details, experience, project examples, qualifications, service areas, and capabilities before publication.”
+
+Add an internal content note:
+
+“Replace this placeholder with owner-approved information before publishing.”
+
+Do not invent:
+
+- Founding year
+- Years of experience
+- Team size
+- Certifications
+- Awards
+- Client logos
+- Customer numbers
+- Reviews
+- Manufacturer partnerships
+
+15. SERVICE AREA SECTION
+
+Title:
+
+“Pool Services Across Cyprus”
+
+Display:
+
+- Cyprus
+- Main service areas: [VERIFY]
+- Nearby areas: [VERIFY]
+
+Add:
+
+“Send your property location to confirm whether the service is available in your area.”
+
+Do not display a fake map pin. Add a replaceable map or service-area placeholder.
+
+16. FAQ SECTION
+
+Create these FAQs:
+
+Q: Do you build new swimming pools?
+A:
+“Aquart Pools accepts enquiries for pool construction projects. Project scope, feasibility, materials, permissions, pricing, and timeframe should be discussed directly with the company.”
+
+Q: Do you renovate existing pools?
+A:
+“Renovation enquiries may include finishes, equipment, surrounds, lighting, and other pool-related improvements, subject to assessment and feasibility.”
+
+Q: Do you offer pool maintenance?
+A:
+“Maintenance and servicing enquiries can be discussed depending on the location, pool type, equipment, requirements, and availability.”
+
+Q: How much does a new pool cost?
+A:
+“Pricing depends on the design, size, materials, site conditions, equipment, access, and project scope. Contact Aquart Pools for a project discussion.”
+
+Q: Can you repair pumps and filters?
+A:
+“Equipment support may be available depending on the system, fault, parts, and current capabilities. Send the equipment details for confirmation.”
+
+Q: Do you work across all Cyprus?
+A:
+“Service coverage should be confirmed based on the property location, project type, and availability.”
+
+Q: Can I send photographs of my existing pool?
+A:
+“Yes, you may send relevant photographs if requested. Avoid sending unnecessary personal information or identifiable people.”
+
+Q: Can I contact Aquart Pools through WhatsApp?
+A:
+“WhatsApp should be activated only after the business confirms that the listed mobile number accepts WhatsApp.”
+
+17. FINAL CTA
+
+Headline:
+
+“Planning a Pool Project or Need Pool Support?”
+
+Supporting text:
+
+“Send your property location and a short description of your construction, renovation, maintenance, or repair requirements.”
+
+Buttons:
+
+- Request a Quote
+- Call Aquart Pools
+- WhatsApp, only after confirmation
+
+18. FOOTER
+
+Include:
+
+- Aquart Pools
+- Pool construction
+- Pool renovation
+- Pool maintenance
+- Pool repairs
+- Equipment and upgrades
+- Phone: +357 70 088701
+- Email: aquartpools@gmail.com
+- Service area placeholder
+- Address placeholder
+- Opening-hours placeholder
+- Privacy Policy placeholder
+- Terms placeholder
+
+Add this footer note:
+
+“Demo template — verify all business information, services, project images, contact details, opening hours, legal pages, and claims before publishing.”
+
+FUNCTIONAL REQUIREMENTS
+
+Call button:
+
+tel:+35770088701
+
+WhatsApp:
+
+Only activate after business confirmation.
+
+Use this structure:
+
+https://wa.me/35770088701?text=Hello%20Aquart%20Pools%2C%20I%20would%20like%20to%20ask%20about%20a%20pool%20project.
+
+Construction enquiry message:
+
+https://wa.me/35770088701?text=Hello%20Aquart%20Pools%2C%20I%20would%20like%20to%20discuss%20a%20new%20pool%20project.%20Property%20location%3A%20____.%20Project%20details%3A%20____.
+
+Renovation enquiry message:
+
+https://wa.me/35770088701?text=Hello%20Aquart%20Pools%2C%20I%20would%20like%20to%20ask%20about%20pool%20renovation.%20Property%20location%3A%20____.%20Required%20work%3A%20____.
+
+Other functionality:
+
+- All quote buttons scroll to the quote form
+- Smooth scrolling
+- Sticky navigation
+- Mobile sticky contact bar
+- Semantic HTML
+- Accessible colour contrast
+- Visible keyboard focus states
+- Proper form labels
+- Responsive images
+- Lazy-load below-the-fold images and video
+- Descriptive alt text
+- Replaceable image and video assets
+- Fast loading
+- Clear error and success states
+- No unnecessary analytics or marketing pixels in the demo
+- No customer accounts
+- No online payments
+- No medical or financial data collection
+- No customer database controlled by the developer
+
+GDPR-MINIMAL DESIGN
+
+Keep the first version simple:
+
+- Collect only name, phone, optional email, location, project type, and message
+- Do not create user accounts
+- Do not collect payment details
+- Do not collect identity documents
+- Do not include a newsletter
+- Do not include remarketing pixels
+- Do not include unnecessary analytics
+- Send enquiries directly to the client’s own email or form account
+- Add a simple privacy-policy placeholder
+- Add a clear consent checkbox
+- Make the client the owner of submitted enquiries and form data
+
+SEO REQUIREMENTS
+
+SEO title:
+
+“Pool Construction, Renovation & Maintenance Cyprus | Aquart Pools”
+
+SEO description:
+
+“Aquart Pools provides swimming-pool construction, renovation, maintenance, repairs, and equipment-related service enquiries across Cyprus.”
+
+Use these keywords naturally:
+
+- swimming pool construction Cyprus
+- pool renovation Cyprus
+- pool maintenance Cyprus
+- swimming pool repair Cyprus
+- villa pool construction Cyprus
+- pool equipment Cyprus
+
+Do not keyword-stuff the page.
+
+Add Open Graph metadata:
+
+- Title
+- Description
+- Replaceable social image
+- URL placeholder
+
+Add LocalBusiness structured data using placeholders for:
+
+- Business name
+- Phone
+- Email
+- Address
+- Area served
+- URL
+- Opening hours
+
+Do not add fake reviews, ratings, awards, certifications, or aggregate ratings to the schema.
+
+FINAL QUALITY CHECK
+
+Before finishing:
+
+- Test at approximately 390px mobile width
+- Test at tablet width
+- Test at desktop width
+- Ensure the hero CTA is immediately visible on mobile
+- Ensure the phone button works
+- Keep WhatsApp disabled or clearly marked until confirmed
+- Ensure no text is cut off
+- Ensure the video has a poster fallback
+- Ensure reduced-motion behaviour works
+- Ensure the video does not reduce readability
+- Ensure no placeholder is presented as verified information
+- Ensure the form has a useful success state
+- Ensure the page looks like a professional pool-construction and renovation company
+- Ensure all images and project examples are replaceable
+- Ensure the website is easy for Aquart Pools to approve and customise
